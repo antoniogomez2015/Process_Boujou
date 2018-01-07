@@ -1,0 +1,122 @@
+
+
+
+Entrenamiento BOUJOU4
+
+	https://www.youtube.com/user/robayoboujou4
+
+		Entrenamiento Boujou4 (18 videos), español: https://www.youtube.com/playlist?list=PLCB67F58F89A31A3E
+
+	
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Referencia: https://www.youtube.com/watch?v=MCGdRJptkIo&list=PLCB67F58F89A31A3E&index=8
+
+	-------------------------------------------------------------------------------------------------------
+
+
+	_éste es la opción base de trackeo, para ésto debemos tener previamente un video ó sencuencia importada
+
+
+	_a continuación tenemos varios accesos para éste proceso:
+
+		
+		_ir al menú superior "2d Task/Track Feature"
+
+		
+		_ó a través, de su shortcut "F9"
+
+
+		_ó a través, del botón de acceso directo en el toolbox
+
+
+	_así, nos aparecerá un panel contextual el cuál, tendremos que indicar la configuración y creterios del
+
+	trackeo ha realizar, éstos son:
+
+
+		_Secuence:
+
+			_en la cuál podremos seleccionar un filtro ó sección de frames, ha trackear ó elegir
+
+			trackear todos los fotogramas
+
+
+		_Adaptative search window:
+
+			_en ésta debemos indicar los criterios de valores mínimos y máximos entre búsquedas por
+
+			sampleos entre sampleos
+
+
+		_Sensivility:
+
+			_así, como también, unos valores ó criterios de sensivilidad ó agudeza de la búsqueda
+
+
+		_Feature Scale:
+
+			_ésta opción es útil para el escaneo de elementos planos y amplios como suelos ó 
+
+			superficies varias como mesas
+
+
+			_así, para suelos escogeremos la opción de "Large"
+
+			_y para objeto más pequeños y en otros planos paralelos escogeremos la opción de "Normal"
+
+
+
+		_Channel Select:
+
+			_así, como también, escoger los canales de color de trabajo, entre R/G/B
+
+
+
+		_Fast Tracking:
+
+			_ésta opción nos permitirá hacer un tracking, mucho más rápido más ésta opción despreciará
+
+			una gran cantidad de puntos de muestreo y por ende será menos exacto el resultado		
+
+
+		_Start:
+
+			_así, para comenzar el proceso de trackeo, debemos darle ha "Start", de ésta manera 
+
+			comenzará el sampleo del área del video indicada
+
+
+			_más en el viewer, del video nos aparecerá en "checker", al lado del ícono de una cámara
+ 
+			al lado derecho el cuál, indicará que el sistema resulva la cámara el terminar el proceso
+ 
+			de trackeo, es recomendable desactivar ésta opción para nosotros hacer éste proceso de 
+
+			forma personalizada posteriormente al proceso de trackeo
+
+
+
+	_y posteriormente al terminar el proceso de tracko para ver el trackeo realizado y sus caracteríscas 
+
+	calidad y carencias ó dfectos podemos ir ha: "Taskview/Feature tracking/Feature Tracking", y hacer doble
+
+	click, sobre "Feature Tracking", para que así, se abrá un panel contextual con la información del 
+
+	tracking, realizado
+			
+
+
+
+
+
+
+
+
+	
+
+	
+	
+	
+

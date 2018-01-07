@@ -1,0 +1,32 @@
+
+
+
+Entrenamiento BOUJOU4
+
+	https://www.youtube.com/user/robayoboujou4
+
+		Entrenamiento Boujou4 (18 videos), español: https://www.youtube.com/playlist?list=PLCB67F58F89A31A3E
+
+	
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Referencia: 02 https://www.youtube.com/watch?v=GGU6PKWS-1k&index=5&list=PLCB67F58F89A31A3E
+
+	-------------------------------------------------------------------------------------------------------
+
+
+	_el setup wizard, nos permitirá configurar las rutas por defectos de archivos que tendrá el programa
+
+	entre otros criterios como la aplicaión de producción de integración de salida de los trackeos
+
+
+	_para ésto vamos ha "edit/setup wizard", y así, nos aparecerá un panel en el cuál, podremos ir indicando
+
+	a través, de pasos guiados la rutas de archivos así, las aplicaciones de integración
+
+	de ésta manera el programa quedará configurado ha nuestro gusto
+
+	
+	
+

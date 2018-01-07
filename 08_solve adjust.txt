@@ -1,0 +1,41 @@
+
+
+
+Entrenamiento BOUJOU4
+
+	https://www.youtube.com/user/robayoboujou4
+
+		Entrenamiento Boujou4 (18 videos), español: https://www.youtube.com/playlist?list=PLCB67F58F89A31A3E
+
+	
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Referencia: https://www.youtube.com/watch?v=MCGdRJptkIo&list=PLCB67F58F89A31A3E&index=8
+
+	-------------------------------------------------------------------------------------------------------
+
+
+	_más luego de haber hecho un trackeo y un camara solve, posteriormente ha ésto podremos hacer ajustes
+
+	posteriormente 
+
+
+	_para ésto, vamos ha "3D Taks/Solve Adjust", para que así, se nos abra un panel contextual con las 
+
+	opciones y criterios de los ajustes posibles:
+
+
+	_de ésta manera podremos hacer ajustes en un rango específico ó en todos la secuencia tango en:
+
+
+		_"translation", en cordenadas 
+
+		_como también, en "rotation"
+
+		_en la longitud focal
+
+		_cambios en la estructura (indeterminado)
+
+		_y cambios de suavizado de trayectoria de la cámara
+
