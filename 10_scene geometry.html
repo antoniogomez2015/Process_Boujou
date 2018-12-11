@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+</head>
+<body>
+	
+
+<!--
+
+Entrenamiento BOUJOU4
+
+	https://www.youtube.com/user/robayoboujou4
+
+		Entrenamiento Boujou4 (18 videos), espa�ol: https://www.youtube.com/playlist?list=PLCB67F58F89A31A3E
+
+	
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Referencia: https://www.youtube.com/watch?v=Ft0vqZbsG6M&index=10&list=PLCB67F58F89A31A3E
+
+	--------------------------------------------------------------------------------
+
+
+
+	Scene Geometry:
+	_______________
+
+	_también, tenemos la posibilidad de agregar planos de geometría en le escena como partes de referencias adicionales para producción
+
+
+	_previamente ha éste proceso debemos tener un trackeo realizado así, como una camara solver, generada
+
+
+	_asignar un punto origen central de la escena:
+
+		_éste será el punto con las cordenadas 0,0,0, de la escena que tomanrán luego los programas 3d, en los cuales se cargará la escena posteriormente
+
+		_así, como también, el punto en el cuál, se generará la grilla ó cuadrícula de referencia
+
+
+	_para ésto vamos ha "3D Taks/Add-Edit Scene Geometry", ó a través, de su shortcut "Control + G", así, se nos abrirá un panel con las opciones de geometría:
+
+
+		_para luego darle en "Scene Geometry/Add Coord Film Hint"
+
+
+		_y ahora en las opciones de "Add Coord Film Hint", en "Type", escogemos la opción de "Origen"
+
+
+		_para luego ir al viewer, y seleccionar un punto ó point, el cuál hará de origen de la escena
+
+
+		_y luego con éste respectivo punto seleccionado volvemos al panel "scene geometry", y hacemos "Connect to selected", para de ésta forma asignar éste punto como punto de origen a la escena
+
+
+		_para por último, darle ha "Update Coord Frame", en el panel "scene geometry" 
+		
+		_para que así, se actualice el sistema a la nueva posición de punto de origen de la grilla y la escena en general
+
+
+
+	_rectificación de los planos:
+
+		
+		_al crear un nuevo punto de origen de la escena en el paso anterior debemos también, ajustar la perspectiva a través, de las cordenadas axis, para que éstas emulen las cordenadas y planos de la escena
+
+
+		_para ésto debemos seleccionar puntos perpendiculares que representen cordenadas 
+		
+		_ej; para indicar la cordenada "Z", de un piso ó suelo, debemos indicar a través, de al menos dos puntos de trackeo 
+		
+		_uno para cada extremo del piso para que así, le indiquemos al programa la dirección de este piso y las cordenadas que éstos punto representan en la escena
+
+
+		
+	
+	_workflow: 
+
+		_para ésto, seleccionamos dos puntos de trackeo ó más, lo cuales deben estar paralelos a un plano según la lógica de la escena 
+		
+		_y con éstos puntos de trackeo seleccionados vamos al panel "scene geometry/control + G"
+
+
+		_ahora con éstos respectivos puntos seleccionados volvemos al panel "scene geometry", y hacemos nuevamnete "Add Coord Film Hint", para otros nuevos puntos de referencia al sistema
+
+
+		_ahora en las opciones de "Add Coord Film Hint", vamos ha "Type", y seleccionamos la opción del tipo de cordenada en relación, en éste caso, es "Line parallel to x-axis", así el sistema tomará estos puntos para formar el plano y la cordenada "X", del sistema
+
+
+		_para luego darle a la opción de "Connect to selected", en el mismos panel scene geoemtry
+
+
+		_y por último ha "Update Coord Frame", en el mismos panel scene geoemtry, para que así, se actualice el sistema
+
+
+		_éste proceso lo debemos repetir para todas las cordenadas restantes hasta que tengamos los planos perfectamente ubicados según la lógica de la escena
+
+
+
+
+
+
+-->
+</body>
+</html>
+
+
+	
